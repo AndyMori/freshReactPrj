@@ -6,7 +6,7 @@ webpack.config.js
 .babelrc
 
 # NPM Packages to add
-npm i -D @babel/core @babel/preset-env @babel/preset-react babel-loader css-loaderfile-loader html-loader html-webpack-plugin mini-css-extract-plugin node-sass react react-dom style-loader webpack webpack-cli webpack-dev-server
+npm i -D @babel/core @babel/preset-env @babel/preset-react babel-loader css-loader file-loader html-loader html-webpack-plugin mini-css-extract-plugin node-sass react react-dom style-loader webpack webpack-cli webpack-dev-server
 
 npm i express
 
